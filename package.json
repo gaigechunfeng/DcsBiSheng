@@ -1,0 +1,16 @@
+{
+  "name": "dcs-bisheng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bisheng start -c ./bisheng.config.js --no-livereload"
+  },
+  "author": "WK",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "bisheng": "^0.20.0",
+    "react-document-title": "^2.0.2"
+  }
+}
